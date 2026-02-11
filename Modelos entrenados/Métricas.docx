@@ -1,0 +1,82 @@
+Métricas de los modelos entrenados de los volantes de huso 
+
+Volante 1 
+3k:
+  Tiempo:
+  SSIM :    0.9212017
+  PSNR :   29.0757637
+  LPIPS:    0.3020236
+6k: 
+  Tiempo:
+  SSIM :    0.9333401
+  PSNR :   30.6835747
+  LPIPS:    0.2865589
+9k : 
+  Tiempo
+  SSIM :    0.9382197
+  PSNR :   31.3651047
+  LPIPS:    0.2801432
+12k:
+  Tiempo:
+  SSIM :    0.9396403
+  PSNR :   31.5784950
+  LPIPS:    0.2769624
+30k: 
+  Tiempo: 1:13:55
+  SSIM :    0.9430008
+  PSNR :   31.9608116
+  LPIPS:    0.2715592
+
+Volante 2
+3k:
+  Tiempo:
+  SSIM :    0.7955707
+  PSNR :   25.0378323
+  LPIPS:    0.3559009
+6k:
+  Tiempo:
+  SSIM :    0.8188393
+  PSNR :   26.1702690
+  LPIPS:    0.3234941
+9k:
+  Tiempo:
+  SSIM :    0.8520160
+  PSNR :   27.2916813
+  LPIPS:    0.2780381
+12k:
+  Tiempo:
+  SSIM :    0.8747845
+  PSNR :   27.9757271
+  LPIPS:    0.2396167
+30k:
+  Tiempo: 1:37:29
+  SSIM :    0.8994959
+  PSNR :   29.0221939
+  LPIPS:    0.1915997
+
+Volante 3
+3k:
+  Tiempo:
+  SSIM :    0.9099429
+  PSNR :   25.2084274
+  LPIPS:    0.2964113
+6k: 
+  Tiempo: 15:31 
+  SSIM :    0.9258282
+  PSNR :   27.1789684
+  LPIPS:    0.2737282
+9k:
+  Tiempo: 29:58
+  SSIM :    0.9313864
+  PSNR :   28.0743656
+  LPIPS:    0.2643270
+12k:
+  Tiempo: 38:39
+  SSIM :    0.9348459
+  PSNR :   28.8623333
+  LPIPS:    0.2596801
+30k:
+  Tiempo: 1:10:15
+  SSIM :    0.9387679
+  PSNR :   30.3739128
+  LPIPS:    0.2451917
