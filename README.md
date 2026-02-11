@@ -1,4 +1,4 @@
-# Resultados-Implementaci-n-3DGD-en-objetos-arqueol-gicos
+# Resultados-Implementación-3DGD-en-objetos-arqueológicos
 Este repositorio contiene los modelos 3D entrenados, conjuntos de datos y scipts de procesamiento y resultados
 
 Guía de Uso del Visor Web de Modelos 3D
